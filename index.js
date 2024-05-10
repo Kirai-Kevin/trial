@@ -1,5 +1,5 @@
-document.getElementById('myButton').addEventListener('click', function() {
-    window.location.href = '/game.html';
+document.getElementById('signUpBtn').addEventListener('click', function() {
+    window.location.href = 'https://nandomoreira-tic-tac-toe.netlify.app/';
 });
 
 document.getElementById('signInBtn').addEventListener('click', function() {
