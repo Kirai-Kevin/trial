@@ -31,7 +31,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         localStorage.setItem("user", JSON.stringify(user));
 
-        window.location.href = "./game.html";
+        window.location.href = "./index.html";
     });
 });
 

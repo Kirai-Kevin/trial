@@ -16,7 +16,7 @@ document.addEventListener("DOMContentLoaded", function() {
 
         if (storedUser!== null) {
             const user = JSON.parse(storedUser);
-            window.location.href = "./game.html";
+            window.location.href = "./index.html";
         } else {
             console.log("No user data found in local storage.");
         }
